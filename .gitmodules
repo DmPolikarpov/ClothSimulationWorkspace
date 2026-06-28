@@ -1,3 +1,6 @@
 [submodule "PhysicsServer"]
 	path = PhysicsServer
 	url = git@github.com:DmPolikarpov/PhysicsServer.git
+[submodule "WebClothClient"]
+	path = WebClothClient
+	url = git@github.com:DmPolikarpov/WebClothClient.git
