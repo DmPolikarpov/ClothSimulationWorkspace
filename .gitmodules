@@ -1,0 +1,3 @@
+[submodule "PhysicsServer"]
+	path = PhysicsServer
+	url = git@github.com:DmPolikarpov/PhysicsServer.git
